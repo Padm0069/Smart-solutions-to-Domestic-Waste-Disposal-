@@ -1,5 +1,5 @@
 # Project
-### In this Project, I developed an app under NATIVE SCRIPT environment using ANGULAR framework.
+### In this Project, Our IIP Group developed an app under NATIVE SCRIPT environment using ANGULAR framework.
 ![](images/logonew.png)
 
 Platforms
